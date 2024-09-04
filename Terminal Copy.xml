@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Terminal Copy</Name>
+  <Guid>0fbcc887-68cb-47bd-bfab-b37227e2b855</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>29</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>42</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>42</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>29</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+  </MacroEvents>
+  <IsFolder>false</IsFolder>
+  <FolderGuid>7045fe7d-3fd7-4ce3-ae76-abe5e2a4f872</FolderGuid>
+</Macro>

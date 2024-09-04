@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Macro xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>SIGINT Copy</Name>
+  <Guid>a7370ad9-c699-48ee-a34e-edacf04ecbb5</Guid>
+  <MacroEvents>
+    <MacroEvent>
+      <Type>1</Type>
+      <KeyEvent>
+        <Makecode>29</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>46</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+    <MacroEvent>
+      <Type>1</Type>
+      <Delay>20</Delay>
+      <KeyEvent>
+        <Makecode>29</Makecode>
+        <State>1</State>
+      </KeyEvent>
+    </MacroEvent>
+  </MacroEvents>
+  <IsFolder>false</IsFolder>
+  <FolderGuid>7045fe7d-3fd7-4ce3-ae76-abe5e2a4f872</FolderGuid>
+</Macro>
